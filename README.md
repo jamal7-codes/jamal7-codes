@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jamal 👋
 
-<!--
-**jamal7-codes/jamal7-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer in training at **YouCode** (Morocco).
+I build responsive websites with HTML, CSS, and JavaScript,.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 What I'm doing now
+- 🌱 Learning JavaScript and building projects at YouCode
+- 🎯 Looking for a web development internship
+
+## 📂 Projects
+- [canteen]([https://github.com/jamal7-codes/b-Cantina-3])):  Canteen Menu Manager helps organize weekly meals
+- [Auchan-e-commerce-4](https://github.com/jamal7-codes/Auchan-e-commerce-4): e-commerce platform.
+
+## 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/jamal-lahhsaini-7b68792a9/)
