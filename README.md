@@ -1,22 +1,43 @@
-# Hi, I'm Jamal 👋
+ 
+<div align="center">
 
-Web Developer in training at **YouCode** (Morocco).
-I build responsive websites with HTML, CSS, and JavaScript,.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58AEFF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Jamal;Web+Developer+in+Training;HTML+%7C+CSS+%7C+JavaScript;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
 
-## 🛠️ Skills
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-lahhsaini-7b68792a9/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamal7-codes)
 
-## 🔭 What I'm doing now
-- 🌱 Learning JavaScript and building projects at YouCode
-- 🎯 Looking for a web development internship
+![Profile views](https://komarev.com/ghpvc/?username=jamal7-codes&label=Profile%20views&color=0e75b6&style=flat)
 
-## 📂 Projects
-- [canteen](https://github.com/jamal7-codes/b-Cantina-3)):  Canteen Menu Manager helps organize weekly meals
-- [Auchan-e-commerce-4](https://github.com/jamal7-codes/Auchan-e-commerce-4): e-commerce platform.
+</div>
+
+## 👨‍💻 About me
+I'm a web development student at **YouCode** (Morocco). I build responsive websites and learn something new with every project. I'm looking for an internship where I can learn from a real team.
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jamal7-codes&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamal7-codes&layout=compact&theme=radical" alt="Top languages" height="160"/>
+</p>
+
+![Streak](https://streak-stats.demolab.com/?user=jamal7-codes&theme=radical)
+
+## 🏆 Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=jamal7-codes&theme=radical&no-frame=true&row=1&column=6)
 
 ## 📫 Contact
-[LinkedIn](https://www.linkedin.com/in/jamal-lahhsaini-7b68792a9/)
+Let's connect on [LinkedIn](https://www.linkedin.com/in/jamal-lahhsaini-7b68792a9/).
