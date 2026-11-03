@@ -15,7 +15,7 @@ I build responsive websites with HTML, CSS, and JavaScript,.
 - 🎯 Looking for a web development internship
 
 ## 📂 Projects
-- [canteen]([https://github.com/jamal7-codes/b-Cantina-3])):  Canteen Menu Manager helps organize weekly meals
+- [canteen](https://github.com/jamal7-codes/b-Cantina-3)):  Canteen Menu Manager helps organize weekly meals
 - [Auchan-e-commerce-4](https://github.com/jamal7-codes/Auchan-e-commerce-4): e-commerce platform.
 
 ## 📫 Contact
