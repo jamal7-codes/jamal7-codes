@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58AEFF&center=true&vCenter=true&width=600&height=70&lines=Hi+%F0%9F%91%8B+I'm+Jamal;Web+Developer+in+Training;HTML+%7C+CSS+%7C+JavaScript;Open+to+Internship+Opportunities)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-lahhsaini-7b68792a9/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamal-lahssaini-7b68792a9/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamal7-codes)
 
 ![Profile views](https://komarev.com/ghpvc/?username=jamal7-codes&label=Profile%20views&color=0e75b6&style=flat)
@@ -40,4 +40,4 @@ I'm a web development student at **YouCode** (Morocco). I build responsive websi
 ![Trophies](https://github-profile-trophy.vercel.app/?username=jamal7-codes&theme=radical&no-frame=true&row=1&column=6)
 
 ## 📫 Contact
-Let's connect on [LinkedIn](https://www.linkedin.com/in/jamal-lahhsaini-7b68792a9/).
+Let's connect on [LinkedIn](https://www.linkedin.com/in/jamal-lahssaini-7b68792a9/).
